@@ -2,10 +2,6 @@
 
 Welcome to the Calculator Web App, a simple and interactive calculator designed to perform basic arithmetic operations. The app features a welcoming screen with animations, a responsive design, and an intuitive user interface.
 
-## Demo
-
-Check out the live demo of the Calculator Web App [here](#).
-
 ## Features
 
 - **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
